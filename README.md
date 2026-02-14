@@ -31,7 +31,7 @@
 ### ⛓️ `map`
 `herramienta batch basada en la fase map de MapReduce`
 
-◾ `ejecución paralela de programa mapper` | `particionado de ficheros` | `distribución en nodos`◾
+◾ `ejecución paralela de programa mapper` | `particionado de ficheros` | `distribución en nodos` ◾
 > `stacks:`
 
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
@@ -46,7 +46,7 @@
 ### 🚉 `metro de Buenos Aires`
 `aplicación GUI para el cálculo de rutas óptimas en el metro de Buenos Aires`
 
-◾ `algoritmo A*` | `interfaz interactiva`◾
+◾ `algoritmo A*` | `interfaz interactiva` ◾
 
 > `stacks:`
 
@@ -58,7 +58,7 @@
 ### 🧩 `compilador MyJS`
 `procesador de lenguajes para el dialecto educativo MyJS`
 
-◾ `análisis léxico` | `análisis sintáctico` | `análisis semántico` | `gestión de errores` | `generación de árbol sintáctico (VAS)` | `pruebas`◾
+◾ `análisis léxico` | `análisis sintáctico` | `análisis semántico` | `gestión de errores` | `generación de árbol sintáctico (VAS)` | `pruebas` ◾
 
 > `stacks:`
 
@@ -72,7 +72,7 @@
 ### 📚 `API RESTful para la gestión de una biblioteca`
 `servicio web RESTful para gestión de libros, usuarios y préstamos`
 
-◾ `operaciones CRUD` | `consultas` | `modelo E/R` | `pruebas en Postman` | `cliente Java`◾
+◾ `operaciones CRUD` | `consultas` | `modelo E/R` | `pruebas en Postman` | `cliente Java` ◾
 
 > `stacks:`
 
@@ -89,7 +89,7 @@
 ### 🌐 `parkings EMT`
 `integración semántica de datos abiertos de EMT Madrid siguiendo prácticas de Linked Data`
 
-◾ `ontología` | `RDF` | `reconciliación con Wikidata` | `consultas SPARQL en GraphDB` | `aplicación de búsqueda y filtrado de parkings`◾
+◾ `ontología` | `RDF` | `reconciliación con Wikidata` | `consultas SPARQL en GraphDB` | `aplicación de búsqueda y filtrado de parkings` ◾
 
 > `stacks:`
 
@@ -109,7 +109,7 @@
 ### 🍻 `BeerSp`
 `aplicación social multiplataforma para descubrir cervezas y locales siguiendo estándares de Ingeniería del Software`
 
-◾ `registro y autenticación` | `perfil de usuario` | `feed social` | `gestión de degustaciones (búsqueda, alta, valoración y comentarios)`◾
+◾ `registro y autenticación` | `perfil de usuario` | `feed social` | `gestión de degustaciones (búsqueda, alta, valoración y comentarios)` ◾
 
 > `stacks:`
 
