@@ -55,6 +55,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=vscode&logoColor=white)
 
+🔒 `privado (bajo petición)`
+
 ### 🧩 `compilador MyJS`
 `procesador de lenguajes para el dialecto educativo MyJS`
 
