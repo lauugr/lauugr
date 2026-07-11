@@ -12,6 +12,51 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 
+## `trabajo fin de grado`
+
+### 🏥 `ontología y grafo de conocimiento — hospitales`
+`representación semántica de centros hospitalarios a partir de datos abiertos del Ministerio de Sanidad — primer ciclo de aplicación de la metodología del TFG`
+
+◾ `preguntas de competencia` | `modelado conceptual` | `diseño de ontología` | `vocabularios controlados SKOS` | `ejemplos de instanciación` | `mapeos RML/YARRRML` | `construcción de grafo RDF` | `validación SPARQL` | `documentación con WIDOCO` ◾
+
+> `stacks:`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![OpenRefine](https://img.shields.io/badge/OpenRefine-6C757D?style=plastic)
+![draw.io](https://img.shields.io/badge/draw.io-6C757D?style=plastic)
+![Chowlk](https://img.shields.io/badge/Chowlk-6C757D?style=plastic)
+![Protégé](https://img.shields.io/badge/Prot%C3%A9g%C3%A9-6C757D?style=plastic)
+![Matey](https://img.shields.io/badge/Matey-6C757D?style=plastic)
+![Morph-KGC](https://img.shields.io/badge/Morph--KGC-6C757D?style=plastic)
+![SPARQL](https://img.shields.io/badge/SPARQL-6C757D?style=plastic)
+![WIDOCO](https://img.shields.io/badge/WIDOCO-6C757D?style=plastic)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=plastic&logo=sublimetext&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+
+🔓 `público (ontologia-hospitales)`
+
+### ♻️ `ontología y grafo de conocimiento – gestión de residuos`
+`representación semántica de la gestión de residuos a partir de cuatro fuentes heterogéneas — segundo ciclo de aplicación de la metodología del TFG, publicado en EDINT`
+
+◾ `preguntas de competencia` | `modelado conceptual` | `diseño de ontología` | `vocabularios controlados SKOS` | `ejemplos de instanciación` | `mapeos RML/YARRRML` | `construcción de grafo RDF` | `validación SPARQL y SHACL` | `documentación con WIDOCO` ◾
+
+> `stacks:`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![OpenRefine](https://img.shields.io/badge/OpenRefine-6C757D?style=plastic)
+![draw.io](https://img.shields.io/badge/draw.io-6C757D?style=plastic)
+![Chowlk](https://img.shields.io/badge/Chowlk-6C757D?style=plastic)
+![Protégé](https://img.shields.io/badge/Prot%C3%A9g%C3%A9-6C757D?style=plastic)
+![Matey](https://img.shields.io/badge/Matey-6C757D?style=plastic)
+![Morph-KGC](https://img.shields.io/badge/Morph--KGC-6C757D?style=plastic)
+![SPARQL](https://img.shields.io/badge/SPARQL-6C757D?style=plastic)
+![SCOOP](https://img.shields.io/badge/SCOOP-6C757D?style=plastic)
+![WIDOCO](https://img.shields.io/badge/WIDOCO-6C757D?style=plastic)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=plastic&logo=sublimetext&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+
+🔓 `público (EDINT-Ontologia/edint-ontologia-gestion-residuos)`
+
 ## `proyectos individuales`
 
 ### 💲 `minishell`
@@ -124,5 +169,34 @@
 ![Web](https://img.shields.io/badge/Web-4285F4?style=plastic&logo=googlechrome&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=vscode&logoColor=white)
+
+🔒 `privado (bajo petición)`
+
+### 🎓 `study planner`
+`sistema multiagente para recomendar planes de estudio personalizados`
+
+◾ `agentes JADE (usuario, datos, recomendador)` | `protocolo ACL/FIPA` | `clasificación J48 (Weka)` | `recomendación personalizada` ◾
+
+> `stacks:`
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white) 
+![JADE](https://img.shields.io/badge/JADE-6C757D?style=plastic) 
+![Weka](https://img.shields.io/badge/Weka-6C757D?style=plastic) 
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=vscode&logoColor=white) 
+
+🔓 `público (study-planner)`
+
+### ⚙️ `SPE`
+`motor de ejecución concurrente de tareas`
+
+◾ `planificación de tareas con dependencias` | `control de concurrencia` | `gestión de fallos y timeouts` | `publicación de eventos (Phoenix.PubSub)` ◾
+
+> `stacks:`
+
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=plastic&logo=elixir&logoColor=white) 
+![Erlang/OTP](https://img.shields.io/badge/Erlang%2FOTP-A90533?style=plastic&logo=erlang&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=vscode&logoColor=white) 
 
 🔒 `privado (bajo petición)`
