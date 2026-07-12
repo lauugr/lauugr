@@ -33,7 +33,7 @@
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=plastic&logo=sublimetext&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 
-🔓 `público (ontologia-hospitales)`
+🔓 `público` ([`ontologia-hospitales`](https://github.com/lauugr/ontologia-hospitales))
 
 ### ♻️ `ontología y grafo de conocimiento – gestión de residuos`
 `representación semántica de la gestión de residuos a partir de cuatro fuentes heterogéneas — segundo ciclo de aplicación de la metodología del TFG, publicado en EDINT`
@@ -55,7 +55,7 @@
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=plastic&logo=sublimetext&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 
-🔓 `público (EDINT-Ontologia/edint-ontologia-gestion-residuos)`
+🔓 `público` ([`EDINT-Ontologia/edint-ontologia-gestion-residuos`](https://github.com/EDINT-Ontologia/edint-ontologia-gestion-residuos))
 
 ## `proyectos individuales`
 
@@ -151,7 +151,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=vscode&logoColor=white)
 
-🔓 `público (sw/HandsOn/Group20)`
+🔓 `público` ([`sw/HandsOn/Group20`](https://github.com/lauugr/sw/tree/master/HandsOn/Group20))
 
 ### 🍻 `BeerSp`
 `aplicación social multiplataforma para descubrir cervezas y locales siguiendo estándares de Ingeniería del Software`
@@ -185,7 +185,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=vscode&logoColor=white) 
 
-🔓 `público (study-planner)`
+🔓 `público` ([`study-planner`](https://github.com/lauugr/study-planner))
 
 ### ⚙️ `SPE`
 `motor de ejecución concurrente de tareas`
